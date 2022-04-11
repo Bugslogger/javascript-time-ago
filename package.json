@@ -1,0 +1,29 @@
+{
+  "name": "javascript-time-ago-function",
+  "version": "1.0.0",
+  "description": "this function will display times in long ago formate i.e. 2 days ago or similar to this",
+  "main": "js-time-ago-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bugslogger/javascript-time-agao.git"
+  },
+  "type": "module",
+  "keywords": [
+    "javascript-time-ago",
+    "time",
+    "ago"
+  ],
+  "author": "MrDark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bugslogger/javascript-time-agao/issues"
+  },
+  "homepage": "https://github.com/Bugslogger/javascript-time-agao#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,1 +1,1 @@
-# javascript-time-agao
+# javascript-time-ago

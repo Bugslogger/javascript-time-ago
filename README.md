@@ -18,7 +18,7 @@ you can edit code as per your requirement or ask me on discord Mr.Dark#3119
 
 1. Clone Repo and add to your project
 2. import timeAgoDisplay(time)
-3. that's it.
+3. that's it all.
 
 [Discord Server](https://discord.gg/FpC8kX5kQB) | 
 [YouTube Channel](https://www.youtube.com/channel/UCEyxVbzsG0oj2f3qoUCQ00g) | 

@@ -8,6 +8,7 @@
  */
 
 export function timeAgoDisplay(time) {
+  if(!time) return "gimme your important time..!!"
   if (new Date(time).getTime() > new Date().getTime())
     return "are you time traveller?";
   let date = new Date(time);
